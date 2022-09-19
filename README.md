@@ -6,6 +6,6 @@ Nice to see you</h1>
 
 I'm Tae Hyun Kim, who wants to be backend developer from S.Korea</h3>
 
-Things i code with : JAVA SPRINGBOOT INTELLIJ
+Things I code with : JAVA SPRINGBOOT INTELLIJ Github
 
 📫 How to reach me: **kth121211_@naver.com**
