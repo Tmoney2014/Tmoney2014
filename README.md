@@ -17,4 +17,4 @@ Things I code with : JAVA SPRINGBOOT
 📫 English : Resume (working on it)
 
 
-[![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId={8855584})(https://slusy.io/profile/{8855584}?sapzil_guide=true)
+[![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId=8855584)(https://slusy.io/profile/8855584?sapzil_guide=true)
