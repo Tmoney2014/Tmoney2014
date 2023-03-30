@@ -12,9 +12,8 @@ Things I code with : JAVA SPRINGBOOT
 
 📫 Velog : **https://velog.io/@kth121211**
 
-📫 한국어 : **[Resume](https://www.notion.so/2bb8343cd4dc4d0687b2d7de4127803a)**
+📫 Resume : **[Resume](https://www.notion.so/2bb8343cd4dc4d0687b2d7de4127803a)**
 
-📫 English : Resume (working on it)
 
 
 [![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId=8855584)](https://slusy.io/profile/8855584?sapzil_guide=true)
