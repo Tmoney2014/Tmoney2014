@@ -10,8 +10,6 @@ Things I code with : JAVA KOTLIN SPRINGBOOT
 
 📫 How to reach me: **kth121211_@naver.com**
 
-📫 Velog : **https://velog.io/@kth121211**
-
 📫 Resume : **[Resume](https://www.notion.so/2bb8343cd4dc4d0687b2d7de4127803a)**
 
 
