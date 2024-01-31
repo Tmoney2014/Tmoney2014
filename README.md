@@ -6,7 +6,7 @@ Nice to see you</h1>
 
 I'm Tae Hyun Kim, backend developer from S.Korea</h3>
 
-Things I code with : Java, Kotlin, SpringBoot, Android
+Things I code with : Java, SpringBoot, Kotlin, Android, C#, .NET
 
 📫 How to reach me: **kth121211_@naver.com**
 
