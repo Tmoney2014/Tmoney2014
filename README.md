@@ -4,9 +4,9 @@ Nice to see you</h1>
 
 <h3>Welcome to my page!
 
-I'm Tae Hyun Kim, software developer in S.Korea</h3>
+I'm TAEHYUN KIM, software developer in S.Korea</h3>
 
-Things I code with : Java, SpringBoot, Kotlin, Android, C#, .NET
+Things I code with : Java, Kotlin, SpringBoot / C#, .NET
 
 📫 How to reach me: **kth121211_@naver.com**
 
