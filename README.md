@@ -4,7 +4,7 @@ Nice to see you</h1>
 
 <h3>Welcome to my page!
 
-I'm TAEHYUN KIM, software developer in S.Korea</h3>
+I'm Tae-hyun Kim, software developer in S.Korea</h3>
 
 Things I code with : Java, Kotlin, SpringBoot / C#, .NET
 
